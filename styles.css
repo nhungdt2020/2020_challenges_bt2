@@ -1,0 +1,82 @@
+
+body{
+  font-size: 15px;
+  background-color: hsl(0, 0%, 98%);
+  font-family: 'Poppins';
+  text-align: center;
+  line-height: 1.5;
+  color: hsl(229, 6%, 66%);
+}
+
+/*---------------------------------------------------*/
+.text1{
+  margin-top: 300px;
+  font-weight: 300;
+}
+
+.description{
+  font-size: 12px;
+  width: 35%;
+  margin: auto auto 30px;
+}
+
+p{
+  font-size: 10px;
+}
+
+h1{
+  color: hsl(234, 12%, 34%);
+  line-height: 0.8;
+
+}
+
+h3{
+  color: hsl(234, 12%, 34%);
+}
+/*---------------------------------------------------*/
+.abc{
+  margin: 10px;
+  width: 22%;
+  height: 150px;
+  display: inline-block;
+  position: relative;
+  border-radius: 5px;
+  background-color: white;
+  text-align: left;
+  padding: 15px;
+  border-top: 5px;
+  box-shadow: 5px 10px 15px  hsl(0, 0%, 93%), -5px 10px 15px hsl(0, 0%, 93%);
+}
+
+
+/*---------------------------------------------------*/
+.supervisor{
+  border-top: solid hsl(180, 62%, 55%);
+  top:150px;
+}
+
+.team{
+  border-top: solid hsl(0, 78%, 62%);
+}
+
+.karma{
+  border-top: solid hsl(34, 97%, 64%);
+}
+
+/*---------------------------------------------------*/
+.calculator{
+  border-top: solid hsl(212, 86%, 64%);
+  top:150px;
+}
+
+.image{
+  position: absolute;
+  right: 20px;
+  bottom: 20px;
+}
+/*-------------------------------------------------*/
+
+@media(max-width: 375px) {
+
+}
+/*-----------------------------------------------------------------------*/
